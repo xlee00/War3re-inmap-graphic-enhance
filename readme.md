@@ -1,25 +1,44 @@
 War3re-inmap-graphic-enhance 魔兽重置版画面增强
 =============================================
 
+地图文件在Test Bundle和Demo当中
+
+The war3map files is in TestBundle/ and Demo/
+
 文件目录 Catalog
 ----------------
 （Thanks for the help of “rufreakde，涛” from Reddit）
+├── Patch // Lasted Fix Update 
 
 ├── Readme // Readme
 
-├── Code // 
-
-| ├── Bzcon UI // script of Blzcon UI 新UI的代码
-
-| ├── Blzcon UI command bar fixed // a fixed version of Blzcon UI
+├── Code // Jass, DXBV, C# and More
 
 ├── Demo // example war3 map 演示魔兽地图
+
+(The following map require MOD to work correctly)
+
+| ├── TurtleRock-re
+
+| ├── echoisles-re
+
+| ├── lastrefuge-re
+
+| ├── northernisles-re
+
+| ├── terenasstand_lv-re
+
+| ├── twistedmeadows-re
+
+(downloadsite:http://www.warchasersreforged.com/)
+
+| ├── TurtleRock-re.*.rar // TR re-grahpic 图像增强TR
 
 | ├── Humanprotro-cn.*.rar // A custom map using enhancement 一个用上了图像增强的RPG地图
 
 | ├── echoisles-re1.w3x // echo isles demo with enhancement and old UI 一个在EI上的demo
 
-├── Mod // Graphic Enhancement Mod wrapped using Winrar
+├── Mod // Graphic Enhancement Mod wrapped using Winrar (Outdated)
 
 | ├── war3enhance.reg // Allow Local files 允许本地存储注册表
 
@@ -37,7 +56,7 @@ War3re-inmap-graphic-enhance 魔兽重置版画面增强
 
 | │ ├── *.w3x//With UI
 
-├── Backup // currently empty 现在是空的
+├── Backup // currently empty 
 
 │ ├──
 
